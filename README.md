@@ -7,4 +7,4 @@
 - ![My Skills](https://skillicons.dev/icons?i=idea,vscode)
 - 📫 How to reach me  @howardchiu01@gmail.com
 
-https://raw.githubusercontent.com/Qiuhoward/Qiuhoward/output/github-contribution-grid-snake.svg
+![](https://raw.githubusercontent.com/Qiuhoward/Qiuhoward/output/github-contribution-grid-snake.svg)
