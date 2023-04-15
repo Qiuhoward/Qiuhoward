@@ -8,7 +8,7 @@
  -   🌱 I’m currently learning 
      
  
-     ![My Skills](https://skillicons.dev/icons?i=linux,discord,spring,java,js,react,redis,mysql,docker,kubernetes,git,github,gitlab)
+     ![My Skills](https://skillicons.dev/icons?i=linux,discord,spring,java,js,react,redis,mysql,docker,git,github,gitlab)
      
 -    My favor IDE 
      
