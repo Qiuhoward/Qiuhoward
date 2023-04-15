@@ -1,4 +1,4 @@
-<h2 align="center">introduction Myself</h2>
+<h2 align="center">Introduction Myself</h2>
 <p align="center">
 - 👋 Hi, I’m @Qiuhoward I'm a senior student and major in IM(Information Management) at NTUNHS(National Taipei University of Nursing and Health Sciences)
 
