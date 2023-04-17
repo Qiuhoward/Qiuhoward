@@ -1,20 +1,20 @@
 <h1 align="center">Introduction Myself</h1>
 <p align="center">
-- 👋 Hi,I'm a senior student and major in IM(Information Management) at NTUNHS !!
+ 
+👋 Hi,I'm a senior student and major in IM(Information Management) at NTUNHS !!
 
- -    👀 I’m interested in Backend engineer
+   👀 I’m interested in Backend engineer
      
   
- -   🌱 I’m currently learning 
-     
+   🌱 I’m currently learning 
  
-     ![My Skills](https://skillicons.dev/icons?i=linux,discord,spring,java,js,react,redis,mysql,docker,git,github,gitlab)
-     
--    My favor IDE 
-     
-     
-     ![My Skills](https://skillicons.dev/icons?i=idea,vscode)
-- 📫 How to reach me  @howardchiu01@gmail.com
+   ![My Skills](https://skillicons.dev/icons?i=linux,discord,spring,java,js,react,redis,mysql,docker,git,github,gitlab)
+         
+ My favor IDE 
+
+ ![My Skills](https://skillicons.dev/icons?i=idea,vscode)
+
+ 📫 How to reach me  @howardchiu01@gmail.com
 </p>
 
 
