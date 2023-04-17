@@ -1,6 +1,6 @@
 <h1 align="center">Introduction Myself</h1>
 <p align="center">
-- 👋 Hi, I’m @Qiuhoward I'm a senior student and major in IM(Information Management) at NTUNHS(National Taipei University of Nursing and Health Sciences)
+- 👋 Hi,I'm a senior student and major in IM(Information Management) at NTUNHS !!
 
  -    👀 I’m interested in Backend engineer
      
