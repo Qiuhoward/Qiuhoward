@@ -15,6 +15,8 @@
  ![My Skills](https://skillicons.dev/icons?i=idea,vscode)
 
  📫 How to reach me  @howardchiu01@gmail.com
+    
+ leetcode: https://leetcode.com/howardchiu01/
 </p>
 
 
